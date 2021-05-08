@@ -10,7 +10,10 @@ main:
     url: /covid/
   - title: "Posts"
     url: /posts/
-  - title: "Contact"
-    url: /contact/
   - title: "Calendar"
     url: /events/
+  - title: "Contact"
+    url: /contact/
+  - title: "Sponsors"
+    url: /sponsors/
+
