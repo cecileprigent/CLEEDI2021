@@ -4,7 +4,7 @@ permalink: /events/
 
 ---
 
-Agenda 
+##Agenda 
 
 | date | event |
 |---------|---------|
@@ -15,8 +15,10 @@ Agenda
 |10/2021| abstract proposal|
 |0X/2022| deadlin for special issue|
 
-Tentative schedule of one-week hackathon (August, 2021)
-| date | morning | afternoon | evening | |
+##Tentative schedule of one-week hackathon (August, 2021)
+
+
+| date | morning | afternoon | evening | comments |
 |-------|--------|---------|---------| ---------|
 | 22 (Sun) | | arrival @ Foix (train, car) | icebreaker | possible shuttle from Toulouse|
 | 23 (Mon) | introduction | atelier| atelier | |
