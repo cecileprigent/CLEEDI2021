@@ -4,7 +4,7 @@ permalink: /events/
 
 ---
 
-##Agenda 
+## Agenda 
 
 | date | event |
 |---------|---------|
@@ -15,7 +15,7 @@ permalink: /events/
 |10/2021| abstract proposal|
 |0X/2022| deadlin for special issue|
 
-##Tentative schedule of one-week hackathon (August, 2021)
+## Tentative schedule of one-week hackathon (August, 2021)
 
 
 | date | morning | afternoon | evening | comments |
