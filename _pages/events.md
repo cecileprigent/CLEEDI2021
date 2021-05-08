@@ -21,7 +21,7 @@ Tentative schedule of one-week hackathon (August, 2021)
 | 22 (Sun) | | arrival @ Foix (train, car) | icebreaker | possible shuttle from Toulouse|
 | 23 (Mon) | introduction | atelier| atelier | |
 | 24 (Tue) | keynotes | atelier | concert ? | |
-| 25 (Wed) | keynotes @ cave? | Spa @ Ax-les-thermes | karaoke ? |"
+| 25 (Wed) | keynotes @ cave? | Spa @ Ax-les-thermes | karaoke ? ||
 | 26 (Thu) | keynotees | atelier | atelier | |
 | 27 (Fri) | wrap-up | atelier | farewell ||
 | 28 (Sat) | Outreach-concert @ Foix | Outreach-concert @ Mazères | | |
