@@ -54,7 +54,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-google-calendar
+  #- jekyll-google-calendar
 
 author:
   name   : "CLEEDI team"
