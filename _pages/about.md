@@ -9,11 +9,11 @@ The evolution of life on our planet is controlled by plate tectonics, which is t
 
 ## How?
 
-This workshop is proposing a ‘hackathon’ week. We invite ~40 researchers mainly from Europe, to work together quantitatively to connect geodynamical models to seismic data with the aid of petrology, in order to understand the sensitivity of geodynamical scenarios on seismic observables. IPGP, City Hall of Foix, ENS Paris, Frontiers are already involved. Outreach activities are also previewed and a special issue in ‘Frontiers in Earth Science’ is programmed for February 2022!
+This workshop is proposing a ‘hackathon’ week. We invite ~40 researchers mainly from Europe, to work together quantitatively to connect geodynamical models to seismic data with the aid of petrology, in order to understand the sensitivity of geodynamical scenarios on geophysical and geological observables. IPGP, City Hall of Foix, ENS Paris, Frontiers are already involved. Outreach activities are also previewed and a special issue in ‘Frontiers in Earth Science’ is programmed for February 2022!
 
 ## When and Where?
 
-This workshop will happen during Summer 2021 in Foix, Ariège, France.
+This workshop will be held on August 23–27, 2021 in Foix (Ariège, France).
 
 ## Supporting institutions
 ![image](https://user-images.githubusercontent.com/4628711/112644072-4ebf9c80-8e45-11eb-82f5-662e0eb6b815.png)
